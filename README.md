@@ -1,2 +1,2 @@
 # Mitigation-Team
-The GIS API app is available upon request. 
+The GIS API codes and widgets are available upon request. 
